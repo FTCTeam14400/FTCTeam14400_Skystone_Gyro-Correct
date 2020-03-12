@@ -1,0 +1,13 @@
+#Tue Mar 10 20:10:08 CDT 2020
+path.3=classes_0.dex
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\sammy\\Desktop\\FTC\\FTC14400-App-19-20\\SkyStone\\SkyStone\\TeamCode\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
+base.2=C\:\\Users\\sammy\\Desktop\\FTC\\FTC14400-App-19-20\\SkyStone\\SkyStone\\TeamCode\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
+base.1=C\:\\Users\\sammy\\Desktop\\FTC\\FTC14400-App-19-20\\SkyStone\\SkyStone\\TeamCode\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\sammy\\Desktop\\FTC\\FTC14400-App-19-20\\SkyStone\\SkyStone\\TeamCode\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
